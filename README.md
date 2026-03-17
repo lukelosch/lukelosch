@@ -28,6 +28,6 @@
 <br>
 📫 How to Reach Me
 <br>
-💼 LinkedIn: [add your link here if you want]
+💼 LinkedIn: 
 <br>
-🌐 Portfolio: [add your website later]
+
