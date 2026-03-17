@@ -1,4 +1,4 @@
-👋 Hi, I'm Luke Losch
+👋 Hi, I'm Luke 
 🧑‍💻 About Me
 🎯 I am a beginner developer aiming to become a front-end developer
 💡 Interests: Web development
